@@ -1,0 +1,6 @@
+{
+  "name": "Tech Equation Solver",
+  "description": "Finds combinations of integer powers summing to a target N with a tech-styled UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
